@@ -1,0 +1,5 @@
+0 0 0 Home
+1 0 0 Western hall, here I will store all of my art
+0 1 0 The start of the northern hall, all programming belongs here
+0 2 0 Two units north
+0 3 0 THree north
